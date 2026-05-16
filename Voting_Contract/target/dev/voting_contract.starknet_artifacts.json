@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"5msskdotodvuk","package_name":"voting_contract","contract_name":"HelloStarknet","module_path":"voting_contract::HelloStarknet","artifacts":{"sierra":"voting_contract_HelloStarknet.contract_class.json","casm":null}}]}
