@@ -1,0 +1,10 @@
+[package]
+name = "bscss22072-simple_algorithms_factorial"
+version = "0.1.0"
+edition = "2023_11"
+
+[lib]
+path = "lib.cairo"
+
+
+[dependencies]
