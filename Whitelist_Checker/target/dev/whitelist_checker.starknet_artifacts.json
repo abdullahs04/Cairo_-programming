@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"utpcukp6a4mem","package_name":"whitelist_checker","contract_name":"WhitelistChecker","module_path":"whitelist_checker::whitelist_checker::WhitelistChecker","artifacts":{"sierra":"whitelist_checker_WhitelistChecker.contract_class.json","casm":"whitelist_checker_WhitelistChecker.compiled_contract_class.json"}}]}
